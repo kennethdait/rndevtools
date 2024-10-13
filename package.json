@@ -1,0 +1,27 @@
+{
+  "name": "rndevtools",
+  "version": "0.1.0",
+  "description": "tools for RN devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kennethdait/rndevtools.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "puppeteer"
+  ],
+  "author": "Ken Dait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethdait/rndevtools/issues"
+  },
+  "homepage": "https://github.com/kennethdait/rndevtools#readme",
+  "dependencies": {
+    "puppeteer": "^23.5.3"
+  }
+}
